@@ -23,3 +23,5 @@ Besides problem statement; objects, properties, and functions of a system can al
 ---
 ## Solution
 ![untitled](https://user-images.githubusercontent.com/41892175/46198416-04760700-c33f-11e8-8615-307cdf739ece.png)
+
+To learn how to convert Problem Statment into UML class diagram click here: [Step-wise procedure to translate a problem statement into class diagram](https://github.com/saif86/Object-Oriented-Modeling---Graphic-Editor)

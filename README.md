@@ -15,7 +15,7 @@ Converting a problem statement into class diagram.
 4.	Construct a final comprehensive Class diagram showing all objects and their relationships along with their attributes and functions.
 
 ### Important things to consider:
-1.	You have to use standard UML notations for objects, classes, and their associations.
+    You have to use standard UML notations for objects, classes, and their associations.
 
 ### Note:
 Besides problem statement; objects, properties, and functions of a system can also be extracted from domain knowledge. You have to consider all OOP concepts like abstraction, encapsulation, inheritance, association, generalization, and specialization wherever applicable.

@@ -22,4 +22,4 @@ Besides problem statement; objects, properties, and functions of a system can al
 
 ---
 ## Solution
-![untitled](https://user-images.githubusercontent.com/41892175/46198349-dbee0d00-c33e-11e8-94cc-6e33ab06702f.png)
+![untitled](https://user-images.githubusercontent.com/41892175/46198416-04760700-c33f-11e8-8615-307cdf739ece.png)
